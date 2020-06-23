@@ -36,3 +36,12 @@
 | Kenobi | Linux | 20 | https://tryhackme.com/room/kenobi |
 | Irked | Linux | 20 | https://www.hackthebox.eu/home/machines/profile/163 |
 | Lame | Linux | 10 | https://www.hackthebox.eu/home/machines/profile/1 |
+
+## 5th Set
+| Machine | OS | Point | Link |
+| --- | --- | --- | --- |
+| Brainpan | Windows | 25 | https://tryhackme.com/room/brainpan |
+| Retro | Windows | 25 | https://tryhackme.com/room/retro |
+| Skynet | Linux | 20 | https://tryhackme.com/room/skynet |
+| Tabby | Linux | 20 | https://www.hackthebox.eu/home/machines/profile/259 |
+| Grandpa | Windows | 10 | https://www.hackthebox.eu/home/machines/profile/13 |
